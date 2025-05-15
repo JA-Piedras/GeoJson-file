@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-99.18741176614009,19.372178180178935],[-99.18468029755763,19.370456400242745],[-99.18160954354556,19.36838663483536]]},"properties":{"Id":0,"Corredor_P":"17-d","Tramo":"Avenida Río Mixcoac en su tramo de 0.9 km que comprende de Molinos a la Avenida Insurgentes"}}
+]}

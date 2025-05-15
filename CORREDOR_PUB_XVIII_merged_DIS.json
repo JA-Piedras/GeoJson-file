@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-99.17696009263415,19.33612010106185],[-99.17242867234529,19.33591716544487],[-99.16877142096428,19.335704896663685],[-99.16474297980466,19.335489929916378],[-99.16068485562153,19.335272409094443],[-99.15690898995791,19.335017529535435],[-99.15287002133437,19.33420523578303]]},"properties":{"Id":0,"Corredor_P":18,"Tramo":"Eje 10 Sur, en su tramo de 2.5 km que comprende de la Avenida Cerro del Agua a la Avenida Aztecas"}}
+]}

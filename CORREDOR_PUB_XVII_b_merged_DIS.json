@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-99.16636176308486,19.442544907021897],[-99.16840618289899,19.438453021389876]]},"properties":{"Id":0,"Corredor_P":"17-b","Tramo":"Calzada Melchor Ocampo en su tramo de 0.9 km que comprende de la Calzada México-Tacuba a la Avenida Marina Nacional"}}
+]}
