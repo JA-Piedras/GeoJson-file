@@ -1,0 +1,3534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Denuncia ciudadana ene 2025.xlsx - Table 1.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>1.0</name>
+      <description><![CDATA[UBICACIÓN: Anillo Periférico Blvd. M. A. Camacho No. 166<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Anillo Periférico Blvd. M. A. Camacho No. 166, Miguel Hidalgo, CDMX<br>Latitud: 19.4339949<br>Longitud: -99.2113279<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Anillo Periférico Blvd. M. A. Camacho No. 166</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Anillo Periférico Blvd. M. A. Camacho No. 166, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4339949</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2113279</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2113279,19.4339949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.0</name>
+      <description><![CDATA[UBICACIÓN: Avenida Tecamachalco No. 17<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Avenida Tecamachalco No. 17, Miguel Hidalgo, CDMX<br>Latitud: 19.4335153<br>Longitud: -99.2108693<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Avenida Tecamachalco No. 17</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Avenida Tecamachalco No. 17, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4335153</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2108693</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2108693,19.4335153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.0</name>
+      <description><![CDATA[UBICACIÓN: Avenida Periférico Blvd. M.A. Camacho No. 50 Y 66 – Lomas Plaza<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Avenida Periférico Blvd. M.A. Camacho No. 50 Y 66 – Lomas Plaza, Miguel Hidalgo, CDMX<br>Latitud: 19.4302093<br>Longitud: -99.2067643<br>OBSERVACIONES: Obervacion de ubicación ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Avenida Periférico Blvd. M.A. Camacho No. 50 Y 66 – Lomas Plaza</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Avenida Periférico Blvd. M.A. Camacho No. 50 Y 66 – Lomas Plaza, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4302093</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2067643</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Obervacion de ubicación </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2067643,19.4302093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.0</name>
+      <description><![CDATA[UBICACIÓN: Periférico Blvd. Manuel  Avila Camacho No. 44<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Periférico Blvd. Manuel  Avila Camacho No. 44, Miguel Hidalgo, CDMX<br>Latitud: 19.4318946<br>Longitud: -99.20925<br>OBSERVACIONES: Obervacion de ubicación ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Periférico Blvd. Manuel  Avila Camacho No. 44</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Periférico Blvd. Manuel  Avila Camacho No. 44, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4318946</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.20925</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Obervacion de ubicación </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.20925,19.4318946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.0</name>
+      <description><![CDATA[UBICACIÓN: Periférico Blvd. Manuel Avila Camacho No. 14<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Periférico Blvd. Manuel Avila Camacho No. 14, Miguel Hidalgo, CDMX<br>Latitud: 19.4383013<br>Longitud: -99.2141544<br>OBSERVACIONES: Observacion de ubicacion ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Periférico Blvd. Manuel Avila Camacho No. 14</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Periférico Blvd. Manuel Avila Camacho No. 14, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4383013</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2141544</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observacion de ubicacion </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2141544,19.4383013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6.0</name>
+      <description><![CDATA[UBICACIÓN: Periférico Sur No. 5264<br>unnamed (1): <br>ALCALDIA: Coyoacán<br>Ciudad: CDMX<br>Direccion: Periférico Sur No. 5264, Coyoacán, CDMX<br>Latitud: 19.3031512<br>Longitud: -99.1737457<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Periférico Sur No. 5264</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Coyoacán</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Periférico Sur No. 5264, Coyoacán, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3031512</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1737457</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1737457,19.3031512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7.0</name>
+      <description><![CDATA[UBICACIÓN: Blvd. Adolfo López Mateos  No. 2810<br>unnamed (1): <br>ALCALDIA: Álvaro Obregón<br>Ciudad: CDMX<br>Direccion: Blvd. Adolfo López Mateos  No. 2810, Álvaro Obregón, CDMX<br>Latitud: 19.3362885<br>Longitud: -99.2061441<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Blvd. Adolfo López Mateos  No. 2810</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Álvaro Obregón</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Blvd. Adolfo López Mateos  No. 2810, Álvaro Obregón, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3362885</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2061441</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2061441,19.3362885,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.0</name>
+      <description><![CDATA[UBICACIÓN: Blvd. Adolfo López  Mateos No. 152<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Blvd. Adolfo López  Mateos No. 152, Benito Juárez, CDMX<br>Latitud: 19.3652038<br>Longitud: -99.1906288<br>OBSERVACIONES: obervacion de ubicación ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Blvd. Adolfo López  Mateos No. 152</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Blvd. Adolfo López  Mateos No. 152, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3652038</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1906288</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>obervacion de ubicación </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1906288,19.3652038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.0</name>
+      <description><![CDATA[UBICACIÓN: Francisco Martínez No. 3<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Francisco Martínez No. 3, Miguel Hidalgo, CDMX<br>Latitud: 19.4029152<br>Longitud: -99.1915576<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Francisco Martínez No. 3</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Francisco Martínez No. 3, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4029152</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1915576</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1915576,19.4029152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10.0</name>
+      <description><![CDATA[UBICACIÓN: Presa Falcon  No. 168<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Presa Falcon  No. 168, Miguel Hidalgo, CDMX<br>Latitud: 19.4442321<br>Longitud: -99.2052448<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Presa Falcon  No. 168</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Presa Falcon  No. 168, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4442321</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2052448</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2052448,19.4442321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11.0</name>
+      <description><![CDATA[UBICACIÓN: Blvd. Miguel de Cervantes Saavedra No. 322<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Blvd. Miguel de Cervantes Saavedra No. 322, Miguel Hidalgo, CDMX<br>Latitud: 19.4401277<br>Longitud: -99.2038874<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Blvd. Miguel de Cervantes Saavedra No. 322</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Blvd. Miguel de Cervantes Saavedra No. 322, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4401277</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2038874</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2038874,19.4401277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>12.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Ejercito Nacional No. 499<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Av. Ejercito Nacional No. 499, Miguel Hidalgo, CDMX<br>Latitud: 19.4382295<br>Longitud: -99.1901215<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Ejercito Nacional No. 499</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Ejercito Nacional No. 499, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4382295</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1901215</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1901215,19.4382295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Homero  No. 404<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Av. Homero  No. 404, Miguel Hidalgo, CDMX<br>Latitud: 19.4353246<br>Longitud: -99.1874516<br>OBSERVACIONES: Anuncio en azotea, denominativo y anuncio de alcohol en vano]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Homero  No. 404</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Homero  No. 404, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4353246</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1874516</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en azotea, denominativo y anuncio de alcohol en vano</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1874516,19.4353246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>14.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Issac Newton No. 215<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Av. Issac Newton No. 215, Miguel Hidalgo, CDMX<br>Latitud: 19.4350831<br>Longitud: -99.1864977<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Issac Newton No. 215</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Issac Newton No. 215, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4350831</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1864977</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1864977,19.4350831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15.0</name>
+      <description><![CDATA[UBICACIÓN: Ejercito Nacional No. 1031<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Ejercito Nacional No. 1031, Miguel Hidalgo, CDMX<br>Latitud: 19.4389795<br>Longitud: -99.2085379<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Ejercito Nacional No. 1031</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Ejercito Nacional No. 1031, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4389795</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2085379</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2085379,19.4389795,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.0</name>
+      <description><![CDATA[UBICACIÓN: Cicerón No. 737<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Cicerón No. 737, Miguel Hidalgo, CDMX<br>Latitud: 19.4345548<br>Longitud: -99.2078245<br>OBSERVACIONES: Anuncio en vano, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Cicerón No. 737</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Cicerón No. 737, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4345548</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2078245</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en vano, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2078245,19.4345548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17.0</name>
+      <description><![CDATA[UBICACIÓN: Arquímedes No. 20<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Arquímedes No. 20, Miguel Hidalgo, CDMX<br>Latitud: 19.4289249<br>Longitud: -99.1917016<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Arquímedes No. 20</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Arquímedes No. 20, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4289249</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1917016</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1917016,19.4289249,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>18.0</name>
+      <description><![CDATA[UBICACIÓN: Mariano Escobedo No. 501  esq, Euler<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Mariano Escobedo No. 501  esq, Euler, Miguel Hidalgo, CDMX<br>Latitud: 19.4318772<br>Longitud: -99.1814908<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Mariano Escobedo No. 501  esq, Euler</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Mariano Escobedo No. 501  esq, Euler, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4318772</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1814908</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1814908,19.4318772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>19.0</name>
+      <description><![CDATA[UBICACIÓN: Insurgentes Norte No 160<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Insurgentes Norte No 160, Cuauhtémoc, CDMX<br>Latitud: 19.4452151<br>Longitud: -99.1538805<br>OBSERVACIONES: Observacion de ubicación ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Insurgentes Norte No 160</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Insurgentes Norte No 160, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4452151</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1538805</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observacion de ubicación </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1538805,19.4452151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20.0</name>
+      <description><![CDATA[UBICACIÓN: Rio Lerma No. 154<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Rio Lerma No. 154, Cuauhtémoc, CDMX<br>Latitud: 19.4283667<br>Longitud: -99.1687935<br>OBSERVACIONES: Mural en muro de colindancia¿?, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Rio Lerma No. 154</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Rio Lerma No. 154, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4283667</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1687935</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Mural en muro de colindancia¿?, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1687935,19.4283667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>21.0</name>
+      <description><![CDATA[UBICACIÓN: Paseo de la Reforma No. 456<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Paseo de la Reforma No. 456, Cuauhtémoc, CDMX<br>Latitud: 19.4241984<br>Longitud: -99.1724162<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Paseo de la Reforma No. 456</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Paseo de la Reforma No. 456, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4241984</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1724162</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1724162,19.4241984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>22.0</name>
+      <description><![CDATA[UBICACIÓN: Paseo de la Reforma  No. 444<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Paseo de la Reforma  No. 444, Cuauhtémoc, CDMX<br>Latitud: 19.4242452<br>Longitud: -99.1719852<br>OBSERVACIONES: Anuncio de renta en vano, uubicacion correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Paseo de la Reforma  No. 444</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Paseo de la Reforma  No. 444, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4242452</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1719852</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio de renta en vano, uubicacion correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1719852,19.4242452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>23.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Insurgentes No. 179<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Insurgentes No. 179, Cuauhtémoc, CDMX<br>Latitud: 19.4218313<br>Longitud: -99.163617<br>OBSERVACIONES: Anuncio denominativo, pero no de colindancia, ubicación correcta ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Insurgentes No. 179</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Insurgentes No. 179, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4218313</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.163617</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio denominativo, pero no de colindancia, ubicación correcta </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.163617,19.4218313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>24.0</name>
+      <description><![CDATA[UBICACIÓN: Monterrey  No. 80<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Monterrey  No. 80, Cuauhtémoc, CDMX<br>Latitud: 19.4194799<br>Longitud: -99.1644917<br>OBSERVACIONES: Anuncio en muro de colindacia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Monterrey  No. 80</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Monterrey  No. 80, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4194799</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1644917</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindacia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1644917,19.4194799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>25.0</name>
+      <description><![CDATA[UBICACIÓN: Yucatán  No. 26<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Yucatán  No. 26, Cuauhtémoc, CDMX<br>Latitud: 19.4161677<br>Longitud: -99.1661394<br>OBSERVACIONES: ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Yucatán  No. 26</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Yucatán  No. 26, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4161677</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1661394</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1661394,19.4161677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>26.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Insurgentes No. 377<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Insurgentes No. 377, Cuauhtémoc, CDMX<br>Latitud: 19.4198114<br>Longitud: -99.1639254<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Insurgentes No. 377</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Insurgentes No. 377, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4198114</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1639254</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1639254,19.4198114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>27.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Rio Mixcoac No. 242<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Av. Rio Mixcoac No. 242, Benito Juárez, CDMX<br>Latitud: 19.3626554<br>Longitud: -99.1747655<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Rio Mixcoac No. 242</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Rio Mixcoac No. 242, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3626554</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1747655</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1747655,19.3626554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>28.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Insurgentes Sur No. 1388<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Av. Insurgentes Sur No. 1388, Benito Juárez, CDMX<br>Latitud: 19.3708333<br>Longitud: -99.1795695<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Insurgentes Sur No. 1388</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Insurgentes Sur No. 1388, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3708333</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1795695</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1795695,19.3708333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29.0</name>
+      <description><![CDATA[UBICACIÓN: Av. San Luis Potosí No. 211<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. San Luis Potosí No. 211, Cuauhtémoc, CDMX<br>Latitud: 19.4131716<br>Longitud: -99.1654412<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. San Luis Potosí No. 211</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. San Luis Potosí No. 211, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4131716</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1654412</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1654412,19.4131716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>30.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Álvaro Obregón  No. 52<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Álvaro Obregón  No. 52, Cuauhtémoc, CDMX<br>Latitud: 19.4186069<br>Longitud: -99.1569077<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Álvaro Obregón  No. 52</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Álvaro Obregón  No. 52, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4186069</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1569077</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1569077,19.4186069,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>31.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Álvaro Obregón  No. 31<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Álvaro Obregón  No. 31, Cuauhtémoc, CDMX<br>Latitud: 19.4192114<br>Longitud: -99.156131<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Álvaro Obregón  No. 31</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Álvaro Obregón  No. 31, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4192114</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.156131</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.156131,19.4192114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>32.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Álvaro Obregón No. 121<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Álvaro Obregón No. 121, Cuauhtémoc, CDMX<br>Latitud: 19.4183642<br>Longitud: -99.1604482<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Álvaro Obregón No. 121</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Álvaro Obregón No. 121, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4183642</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1604482</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1604482,19.4183642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>33.0</name>
+      <description><![CDATA[UBICACIÓN: Hamburgo No. 45<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Hamburgo No. 45, Cuauhtémoc, CDMX<br>Latitud: 19.4283425<br>Longitud: -99.1605233<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Hamburgo No. 45</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Hamburgo No. 45, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4283425</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1605233</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1605233,19.4283425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>34.0</name>
+      <description><![CDATA[UBICACIÓN: Bucareli  No. 8<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Bucareli  No. 8, Cuauhtémoc, CDMX<br>Latitud: 19.4346837<br>Longitud: -99.1498813<br>OBSERVACIONES: No es anuncio de colindancia]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Bucareli  No. 8</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Bucareli  No. 8, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4346837</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1498813</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>No es anuncio de colindancia</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1498813,19.4346837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>35.0</name>
+      <description><![CDATA[UBICACIÓN: Tlalpan No. 613<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Tlalpan No. 613, Benito Juárez, CDMX<br>Latitud: 19.3963902<br>Longitud: -99.138064<br>OBSERVACIONES: Anuncio en muro de colondancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Tlalpan No. 613</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Tlalpan No. 613, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3963902</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.138064</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colondancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.138064,19.3963902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>36.0</name>
+      <description><![CDATA[UBICACIÓN: Tlalpan  No. 839<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Tlalpan  No. 839, Benito Juárez, CDMX<br>Latitud: 19.3895791<br>Longitud: -99.1390197<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Tlalpan  No. 839</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Tlalpan  No. 839, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3895791</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1390197</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1390197,19.3895791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>37.0</name>
+      <description><![CDATA[UBICACIÓN: Tlalpan No. 2573<br>unnamed (1): <br>ALCALDIA: Coyoacán<br>Ciudad: CDMX<br>Direccion: Tlalpan No. 2573, Coyoacán, CDMX<br>Latitud: 19.3270849<br>Longitud: -99.1394601<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Tlalpan No. 2573</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Coyoacán</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Tlalpan No. 2573, Coyoacán, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3270849</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1394601</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1394601,19.3270849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>38.0</name>
+      <description><![CDATA[UBICACIÓN: Tlalpan No. 2792<br>unnamed (1): <br>ALCALDIA: Coyoacán<br>Ciudad: CDMX<br>Direccion: Tlalpan No. 2792, Coyoacán, CDMX<br>Latitud: 19.3199555<br>Longitud: -99.1378064<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Tlalpan No. 2792</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Coyoacán</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Tlalpan No. 2792, Coyoacán, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3199555</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1378064</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1378064,19.3199555,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>39.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Rio Consulado No. 208<br>unnamed (1): <br>ALCALDIA: Gustavo A. Madero<br>Ciudad: CDMX<br>Direccion: Av. Rio Consulado No. 208, Gustavo A. Madero, CDMX<br>Latitud: 19.4567704<br>Longitud: -99.115242<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Rio Consulado No. 208</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Gustavo A. Madero</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Rio Consulado No. 208, Gustavo A. Madero, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4567704</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.115242</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.115242,19.4567704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>40.0</name>
+      <description><![CDATA[UBICACIÓN: Agustín Vicente Eguía No. 4<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Agustín Vicente Eguía No. 4, Miguel Hidalgo, CDMX<br>Latitud: 19.4081595<br>Longitud: -99.184502<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Agustín Vicente Eguía No. 4</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Agustín Vicente Eguía No. 4, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4081595</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.184502</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.184502,19.4081595,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>41.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Ribera de San Cosme No. 22<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Ribera de San Cosme No. 22, Cuauhtémoc, CDMX<br>Latitud: 19.4401039<br>Longitud: -99.157226<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Ribera de San Cosme No. 22</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Ribera de San Cosme No. 22, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4401039</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.157226</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.157226,19.4401039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>42.0</name>
+      <description><![CDATA[UBICACIÓN: Circuito Interior No. 1016<br>unnamed (1): <br>ALCALDIA: Iztapalapa<br>Ciudad: CDMX<br>Direccion: Circuito Interior No. 1016, Iztapalapa, CDMX<br>Latitud: 19.3723283<br>Longitud: -99.1030801<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Circuito Interior No. 1016</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Iztapalapa</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Circuito Interior No. 1016, Iztapalapa, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3723283</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1030801</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1030801,19.3723283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>43.0</name>
+      <description><![CDATA[UBICACIÓN: Viaducto Pdte. Miguel Alemán Valdés  No. 23<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Viaducto Pdte. Miguel Alemán Valdés  No. 23, Miguel Hidalgo, CDMX<br>Latitud: 19.3994263<br>Longitud: -99.1861596<br>OBSERVACIONES: Anuncio pintado en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Viaducto Pdte. Miguel Alemán Valdés  No. 23</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Viaducto Pdte. Miguel Alemán Valdés  No. 23, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3994263</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1861596</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio pintado en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1861596,19.3994263,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>44.0</name>
+      <description><![CDATA[UBICACIÓN: Viaducto Pdte. Miguel Alemán Valdés  No. 561<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Viaducto Pdte. Miguel Alemán Valdés  No. 561, Cuauhtémoc, CDMX<br>Latitud: 19.4027032<br>Longitud: -99.1626104<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Viaducto Pdte. Miguel Alemán Valdés  No. 561</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Viaducto Pdte. Miguel Alemán Valdés  No. 561, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4027032</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1626104</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1626104,19.4027032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>45.0</name>
+      <description><![CDATA[UBICACIÓN: Viaducto Pdte. Miguel Alemán Valdés  No. 196<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Viaducto Pdte. Miguel Alemán Valdés  No. 196, Miguel Hidalgo, CDMX<br>Latitud: 19.3995322<br>Longitud: -99.1779326<br>OBSERVACIONES: Observacion de ubicación ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Viaducto Pdte. Miguel Alemán Valdés  No. 196</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Viaducto Pdte. Miguel Alemán Valdés  No. 196, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3995322</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1779326</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observacion de ubicación </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1779326,19.3995322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>46.0</name>
+      <description><![CDATA[UBICACIÓN: Calz. Mariano Escobedo No. 568<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Calz. Mariano Escobedo No. 568, Miguel Hidalgo, CDMX<br>Latitud: 19.4294702<br>Longitud: -99.1800209<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Calz. Mariano Escobedo No. 568</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Calz. Mariano Escobedo No. 568, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4294702</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1800209</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1800209,19.4294702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>47.0</name>
+      <description><![CDATA[UBICACIÓN: Virgílio No. 32<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Virgílio No. 32, Miguel Hidalgo, CDMX<br>Latitud: 19.430255<br>Longitud: -99.1962603<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Virgílio No. 32</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Virgílio No. 32, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.430255</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1962603</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1962603,19.430255,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>48.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Emilio Castelar No. 7<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Av. Emilio Castelar No. 7, Miguel Hidalgo, CDMX<br>Latitud: 19.4293276<br>Longitud: -99.1918564<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Emilio Castelar No. 7</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Emilio Castelar No. 7, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4293276</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1918564</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1918564,19.4293276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>49.0</name>
+      <description><![CDATA[UBICACIÓN: Parque Lira  No. 139<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Parque Lira  No. 139, Miguel Hidalgo, CDMX<br>Latitud: 19.4045086<br>Longitud: -99.1877747<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Parque Lira  No. 139</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Parque Lira  No. 139, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4045086</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1877747</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1877747,19.4045086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>50.0</name>
+      <description><![CDATA[UBICACIÓN: Eje 3 Pte Medellin. No. 381<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Eje 3 Pte Medellin. No. 381, Cuauhtémoc, CDMX<br>Latitud: 19.4020218<br>Longitud: -99.1622998<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje 3 Pte Medellin. No. 381</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje 3 Pte Medellin. No. 381, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4020218</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1622998</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1622998,19.4020218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>51.0</name>
+      <description><![CDATA[UBICACIÓN: Eje 3 Pte Medellin. No. 380<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Eje 3 Pte Medellin. No. 380, Benito Juárez, CDMX<br>Latitud: 19.4020277<br>Longitud: -99.1620672<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje 3 Pte Medellin. No. 380</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje 3 Pte Medellin. No. 380, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4020277</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1620672</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1620672,19.4020277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>52.0</name>
+      <description><![CDATA[UBICACIÓN: Viaducto Miguel Alemán  No. 28<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Viaducto Miguel Alemán  No. 28, Benito Juárez, CDMX<br>Latitud: 19.4036808<br>Longitud: -99.1461787<br>OBSERVACIONES: observar ubicacion ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Viaducto Miguel Alemán  No. 28</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Viaducto Miguel Alemán  No. 28, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4036808</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1461787</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>observar ubicacion </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1461787,19.4036808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>53.0</name>
+      <description><![CDATA[UBICACIÓN: Bucareli No. 8<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Bucareli No. 8, Cuauhtémoc, CDMX<br>Latitud: 19.4346837<br>Longitud: -99.1498813<br>OBSERVACIONES: observar ubicacion, se repite]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Bucareli No. 8</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Bucareli No. 8, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4346837</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1498813</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>observar ubicacion, se repite</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1498813,19.4346837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>54.0</name>
+      <description><![CDATA[UBICACIÓN: Eje Central Lázaro Cárdenas No. 46<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Eje Central Lázaro Cárdenas No. 46, Cuauhtémoc, CDMX<br>Latitud: 19.4310842<br>Longitud: -99.1411818<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje Central Lázaro Cárdenas No. 46</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje Central Lázaro Cárdenas No. 46, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4310842</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1411818</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1411818,19.4310842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>55.0</name>
+      <description><![CDATA[UBICACIÓN: Eje Central Lázaro Cárdenas No. 32<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Eje Central Lázaro Cárdenas No. 32, Cuauhtémoc, CDMX<br>Latitud: 19.4317594<br>Longitud: -99.1410536<br>OBSERVACIONES: anuncio en azotea, ubicacion correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje Central Lázaro Cárdenas No. 32</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje Central Lázaro Cárdenas No. 32, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4317594</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1410536</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>anuncio en azotea, ubicacion correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1410536,19.4317594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>56.0</name>
+      <description><![CDATA[UBICACIÓN: Eje Central Lázaro Cárdenas No. 102<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Eje Central Lázaro Cárdenas No. 102, Cuauhtémoc, CDMX<br>Latitud: 19.4282442<br>Longitud: -99.1414889<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje Central Lázaro Cárdenas No. 102</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje Central Lázaro Cárdenas No. 102, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4282442</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1414889</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1414889,19.4282442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>57.0</name>
+      <description><![CDATA[UBICACIÓN: Eje Central Lázaro Cárdenas No. 491 (Edifico Chamizal)<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Eje Central Lázaro Cárdenas No. 491 (Edifico Chamizal), Cuauhtémoc, CDMX<br>Latitud: 19.4537244<br>Longitud: -99.1379914<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje Central Lázaro Cárdenas No. 491 (Edifico Chamizal)</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje Central Lázaro Cárdenas No. 491 (Edifico Chamizal), Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4537244</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1379914</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1379914,19.4537244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>58.0</name>
+      <description><![CDATA[UBICACIÓN: Eje Central Lázaro Cárdenas No. 3018<br>unnamed (1): <br>ALCALDIA: Gustavo A. Madero<br>Ciudad: CDMX<br>Direccion: Eje Central Lázaro Cárdenas No. 3018, Gustavo A. Madero, CDMX<br>Latitud: 19.520568<br>Longitud: -99.1572955<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje Central Lázaro Cárdenas No. 3018</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Gustavo A. Madero</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje Central Lázaro Cárdenas No. 3018, Gustavo A. Madero, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.520568</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1572955</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1572955,19.520568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>59.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Revolución No. 526<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Av. Revolución No. 526, Benito Juárez, CDMX<br>Latitud: 19.3901421<br>Longitud: -99.1856865<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Revolución No. 526</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Revolución No. 526, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3901421</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1856865</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1856865,19.3901421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>60.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Revolución No. 1905<br>unnamed (1): <br>ALCALDIA: Álvaro Obregón<br>Ciudad: CDMX<br>Direccion: Av. Revolución No. 1905, Álvaro Obregón, CDMX<br>Latitud: 19.3394885<br>Longitud: -99.1921709<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Revolución No. 1905</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Álvaro Obregón</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Revolución No. 1905, Álvaro Obregón, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3394885</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1921709</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1921709,19.3394885,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>61.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Revolución No. 1386<br>unnamed (1): <br>ALCALDIA: Álvaro Obregón<br>Ciudad: CDMX<br>Direccion: Av. Revolución No. 1386, Álvaro Obregón, CDMX<br>Latitud: 19.3565991<br>Longitud: -99.1896976<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Revolución No. 1386</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Álvaro Obregón</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Revolución No. 1386, Álvaro Obregón, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3565991</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1896976</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1896976,19.3565991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>62.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Revolución No. 1310<br>unnamed (1): <br>ALCALDIA: Álvaro Obregón<br>Ciudad: CDMX<br>Direccion: Av. Revolución No. 1310, Álvaro Obregón, CDMX<br>Latitud: 19.3592743<br>Longitud: -99.189326<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Revolución No. 1310</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Álvaro Obregón</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Revolución No. 1310, Álvaro Obregón, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3592743</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.189326</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.189326,19.3592743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>63.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Revolución No. 1014<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Av. Revolución No. 1014, Benito Juárez, CDMX<br>Latitud: 19.3699788<br>Longitud: -99.1881409<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Revolución No. 1014</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Revolución No. 1014, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3699788</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1881409</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1881409,19.3699788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>64.0</name>
+      <description><![CDATA[UBICACIÓN: Patriotismo No. 154<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Patriotismo No. 154, Miguel Hidalgo, CDMX<br>Latitud: 19.4312464<br>Longitud: -99.2153518<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Patriotismo No. 154</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Patriotismo No. 154, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4312464</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2153518</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2153518,19.4312464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>65.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Tamaulipas No. 236<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Tamaulipas No. 236, Cuauhtémoc, CDMX<br>Latitud: 19.406692<br>Longitud: -99.1788521<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Tamaulipas No. 236</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Tamaulipas No. 236, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.406692</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1788521</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1788521,19.406692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>66.0</name>
+      <description><![CDATA[UBICACIÓN: Gutenberg No. 225<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Gutenberg No. 225, Miguel Hidalgo, CDMX<br>Latitud: 19.4316936<br>Longitud: -99.1801223<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Gutenberg No. 225</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Gutenberg No. 225, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4316936</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1801223</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1801223,19.4316936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>67.0</name>
+      <description><![CDATA[UBICACIÓN: Calle Séneca No. 417<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Calle Séneca No. 417, Miguel Hidalgo, CDMX<br>Latitud: 19.4316385<br>Longitud: -99.2029522<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Calle Séneca No. 417</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Calle Séneca No. 417, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4316385</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2029522</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2029522,19.4316385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>68.0</name>
+      <description><![CDATA[UBICACIÓN: Cale Thiers No. 135<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Cale Thiers No. 135, Miguel Hidalgo, CDMX<br>Latitud: 19.4338954<br>Longitud: -99.1788916<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Cale Thiers No. 135</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Cale Thiers No. 135, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4338954</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1788916</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1788916,19.4338954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>69.0</name>
+      <description><![CDATA[UBICACIÓN: Rio Panuco No. 192<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Rio Panuco No. 192, Cuauhtémoc, CDMX<br>Latitud: 19.4278418<br>Longitud: -99.173275<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Rio Panuco No. 192</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Rio Panuco No. 192, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4278418</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.173275</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.173275,19.4278418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>70.0</name>
+      <description><![CDATA[UBICACIÓN: Salamanca No. 11<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Salamanca No. 11, Cuauhtémoc, CDMX<br>Latitud: 19.4214571<br>Longitud: -99.1704113<br>OBSERVACIONES: Observar la ubicacion ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Salamanca No. 11</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Salamanca No. 11, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4214571</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1704113</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observar la ubicacion </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1704113,19.4214571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>71.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Oaxaca No. 72<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Oaxaca No. 72, Cuauhtémoc, CDMX<br>Latitud: 19.4190614<br>Longitud: -99.1668489<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Oaxaca No. 72</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Oaxaca No. 72, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4190614</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1668489</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1668489,19.4190614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>72.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Insurgentes Sur No. 377<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Insurgentes Sur No. 377, Cuauhtémoc, CDMX<br>Latitud: 19.4198114<br>Longitud: -99.1639254<br>OBSERVACIONES: Se repite la direccion ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Insurgentes Sur No. 377</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Insurgentes Sur No. 377, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4198114</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1639254</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Se repite la direccion </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1639254,19.4198114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>73.0</name>
+      <description><![CDATA[UBICACIÓN: Calle Parral No. 78 Bis<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Calle Parral No. 78 Bis, Cuauhtémoc, CDMX<br>Latitud: 19.4117124<br>Longitud: -99.1744741<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Calle Parral No. 78 Bis</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Calle Parral No. 78 Bis, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4117124</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1744741</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1744741,19.4117124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>74.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Nuevo León No. 253<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Av. Nuevo León No. 253, Miguel Hidalgo, CDMX<br>Latitud: 19.4028379<br>Longitud: -99.1713255<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Nuevo León No. 253</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Nuevo León No. 253, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4028379</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1713255</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1713255,19.4028379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>75.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Observatorio No. 489<br>unnamed (1): <br>ALCALDIA: Álvaro Obregón<br>Ciudad: CDMX<br>Direccion: Av. Observatorio No. 489, Álvaro Obregón, CDMX<br>Latitud: 19.4000438<br>Longitud: -99.2113659<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Observatorio No. 489</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Álvaro Obregón</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Observatorio No. 489, Álvaro Obregón, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4000438</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2113659</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2113659,19.4000438,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>76.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Constituyentes No. 345<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Av. Constituyentes No. 345, Miguel Hidalgo, CDMX<br>Latitud: 19.4081002<br>Longitud: -99.1985066<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Constituyentes No. 345</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Constituyentes No. 345, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4081002</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1985066</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1985066,19.4081002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>77.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Baja California No. 7<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Baja California No. 7, Cuauhtémoc, CDMX<br>Latitud: 19.406054<br>Longitud: -99.1690915<br>OBSERVACIONES: Observar la ubicacion ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Baja California No. 7</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Baja California No. 7, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.406054</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1690915</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observar la ubicacion </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1690915,19.406054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>78.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Baja California  No. 14<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Baja California  No. 14, Cuauhtémoc, CDMX<br>Latitud: 19.4063696<br>Longitud: -99.1561016<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Baja California  No. 14</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Baja California  No. 14, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4063696</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1561016</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1561016,19.4063696,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>79.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Baja California  No. 200<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Av. Baja California  No. 200, Cuauhtémoc, CDMX<br>Latitud: 19.4056586<br>Longitud: -99.1665245<br>OBSERVACIONES: Anuncios al rededor del edificio ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Baja California  No. 200</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Baja California  No. 200, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4056586</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1665245</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncios al rededor del edificio </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1665245,19.4056586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>80.0</name>
+      <description><![CDATA[UBICACIÓN: Nuevo León No. 257<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Nuevo León No. 257, Miguel Hidalgo, CDMX<br>Latitud: 19.4025365<br>Longitud: -99.1712553<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Nuevo León No. 257</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Nuevo León No. 257, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4025365</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1712553</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1712553,19.4025365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>81.0</name>
+      <description><![CDATA[UBICACIÓN: San Francisco No. 205<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: San Francisco No. 205, Benito Juárez, CDMX<br>Latitud: 19.3970046<br>Longitud: -99.1697658<br>OBSERVACIONES: Observar la ubicacion ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>San Francisco No. 205</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>San Francisco No. 205, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3970046</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1697658</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observar la ubicacion </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1697658,19.3970046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>82.0</name>
+      <description><![CDATA[UBICACIÓN: Eje 5 Eugenia  No. 283<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Eje 5 Eugenia  No. 283, Benito Juárez, CDMX<br>Latitud: 19.3846668<br>Longitud: -99.151591<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje 5 Eugenia  No. 283</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje 5 Eugenia  No. 283, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3846668</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.151591</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.151591,19.3846668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>83.0</name>
+      <description><![CDATA[UBICACIÓN: Dr. José Maria Vértiz No. 616<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Dr. José Maria Vértiz No. 616, Benito Juárez, CDMX<br>Latitud: 19.3987474<br>Longitud: -99.1505344<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Dr. José Maria Vértiz No. 616</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Dr. José Maria Vértiz No. 616, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3987474</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1505344</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1505344,19.3987474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>84.0</name>
+      <description><![CDATA[UBICACIÓN: Diagonal San Antonio No. 910<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Diagonal San Antonio No. 910, Benito Juárez, CDMX<br>Latitud: 19.3923214<br>Longitud: -99.162632<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Diagonal San Antonio No. 910</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Diagonal San Antonio No. 910, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3923214</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.162632</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.162632,19.3923214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>85.0</name>
+      <description><![CDATA[UBICACIÓN: Gabriel Mancera  No. 1360<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Gabriel Mancera  No. 1360, Benito Juárez, CDMX<br>Latitud: 19.373462<br>Longitud: -99.1673087<br>OBSERVACIONES: Anuncios al rededor del edificio ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Gabriel Mancera  No. 1360</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Gabriel Mancera  No. 1360, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.373462</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1673087</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncios al rededor del edificio </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1673087,19.373462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>86.0</name>
+      <description><![CDATA[UBICACIÓN: Viaducto Miguel Alemán Valdés  No. 93<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: Viaducto Miguel Alemán Valdés  No. 93, Cuauhtémoc, CDMX<br>Latitud: 19.4034177<br>Longitud: -99.1416157<br>OBSERVACIONES: Observar ubicacion]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Viaducto Miguel Alemán Valdés  No. 93</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Viaducto Miguel Alemán Valdés  No. 93, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4034177</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1416157</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observar ubicacion</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1416157,19.4034177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>87.0</name>
+      <description><![CDATA[UBICACIÓN: San Antonio Abad No. 307<br>unnamed (1): <br>ALCALDIA: Cuauhtémoc<br>Ciudad: CDMX<br>Direccion: San Antonio Abad No. 307, Cuauhtémoc, CDMX<br>Latitud: 19.4067614<br>Longitud: -99.1361766<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>San Antonio Abad No. 307</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuauhtémoc</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>San Antonio Abad No. 307, Cuauhtémoc, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4067614</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1361766</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1361766,19.4067614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>88.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Coyoacán No. 1435<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Av. Coyoacán No. 1435, Benito Juárez, CDMX<br>Latitud: 19.3705641<br>Longitud: -99.1716622<br>OBSERVACIONES: Observar ubicacion]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Coyoacán No. 1435</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Coyoacán No. 1435, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3705641</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1716622</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observar ubicacion</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1716622,19.3705641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>89.0</name>
+      <description><![CDATA[UBICACIÓN: Eje 8 Sur Popocatépetl No. 175<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Eje 8 Sur Popocatépetl No. 175, Benito Juárez, CDMX<br>Latitud: 19.36548<br>Longitud: -99.168<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Eje 8 Sur Popocatépetl No. 175</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Eje 8 Sur Popocatépetl No. 175, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.36548</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.168</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.168,19.36548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>90.0</name>
+      <description><![CDATA[UBICACIÓN: Emiliano Zapata  No. 61<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Emiliano Zapata  No. 61, Benito Juárez, CDMX<br>Latitud: 19.3646708<br>Longitud: -99.1441586<br>OBSERVACIONES: Observar ubicación]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Emiliano Zapata  No. 61</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Emiliano Zapata  No. 61, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3646708</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1441586</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Observar ubicación</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1441586,19.3646708,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>91.0</name>
+      <description><![CDATA[UBICACIÓN: Av. División del Norte  No. 1000<br>unnamed (1): <br>ALCALDIA: Benito Juárez<br>Ciudad: CDMX<br>Direccion: Av. División del Norte  No. 1000, Benito Juárez, CDMX<br>Latitud: 19.3896968<br>Longitud: -99.1632958<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. División del Norte  No. 1000</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Benito Juárez</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. División del Norte  No. 1000, Benito Juárez, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3896968</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1632958</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1632958,19.3896968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>92.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Carlos Lazo No. 458 (Expo Santa Fe)<br>unnamed (1): <br>ALCALDIA: Álvaro Obregón<br>Ciudad: CDMX<br>Direccion: Av. Carlos Lazo No. 458 (Expo Santa Fe), Álvaro Obregón, CDMX<br>Latitud: 19.3624483<br>Longitud: -99.2633775<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Carlos Lazo No. 458 (Expo Santa Fe)</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Álvaro Obregón</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Carlos Lazo No. 458 (Expo Santa Fe), Álvaro Obregón, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3624483</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2633775</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2633775,19.3624483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>93.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Javier Barros Sierra (Estacionamiento Expo Santa Fe)<br>unnamed (1): <br>ALCALDIA: Álvaro Obregón<br>Ciudad: CDMX<br>Direccion: Av. Javier Barros Sierra (Estacionamiento Expo Santa Fe), Álvaro Obregón, CDMX<br>Latitud: 19.369979<br>Longitud: -99.2542798<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Javier Barros Sierra (Estacionamiento Expo Santa Fe)</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Álvaro Obregón</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Javier Barros Sierra (Estacionamiento Expo Santa Fe), Álvaro Obregón, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.369979</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2542798</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2542798,19.369979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>94.0</name>
+      <description><![CDATA[UBICACIÓN: Prolongación Paseo de la Reforma  No. 1235  Plaza Zentrika<br>unnamed (1): <br>ALCALDIA: Cuajimalpa<br>Ciudad: CDMX<br>Direccion: Prolongación Paseo de la Reforma  No. 1235  Plaza Zentrika, Cuajimalpa, CDMX<br>Latitud: 19.3591367<br>Longitud: -99.2751083<br>OBSERVACIONES: Anuncios al rededor del edificio ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Prolongación Paseo de la Reforma  No. 1235  Plaza Zentrika</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Cuajimalpa</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Prolongación Paseo de la Reforma  No. 1235  Plaza Zentrika, Cuajimalpa, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.3591367</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.2751083</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncios al rededor del edificio </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2751083,19.3591367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>95.0</name>
+      <description><![CDATA[UBICACIÓN: Av. Federación Mexicana de Fútbol No. 33<br>unnamed (1): <br>ALCALDIA: Tlalpan<br>Ciudad: CDMX<br>Direccion: Av. Federación Mexicana de Fútbol No. 33, Tlalpan, CDMX<br>Latitud: 19.2972366<br>Longitud: -99.1383108<br>OBSERVACIONES: Anuncio en azotea, ubicacion correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Av. Federación Mexicana de Fútbol No. 33</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Tlalpan</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Av. Federación Mexicana de Fútbol No. 33, Tlalpan, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.2972366</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1383108</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en azotea, ubicacion correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1383108,19.2972366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>96.0</name>
+      <description><![CDATA[UBICACIÓN: Ejercito Nacional No. 436<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Ejercito Nacional No. 436, Miguel Hidalgo, CDMX<br>Latitud: 19.4375176<br>Longitud: -99.1883975<br>OBSERVACIONES: Anuncio en muro de colindancia, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Ejercito Nacional No. 436</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Ejercito Nacional No. 436, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4375176</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1883975</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Anuncio en muro de colindancia, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1883975,19.4375176,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>97.0</name>
+      <description><![CDATA[UBICACIÓN: Lamartine  No. 103<br>unnamed (1): <br>ALCALDIA: Miguel Hidalgo<br>Ciudad: CDMX<br>Direccion: Lamartine  No. 103, Miguel Hidalgo, CDMX<br>Latitud: 19.4375666<br>Longitud: -99.1897804<br>OBSERVACIONES: Sin evidencia de anuncio, ubicación correcta]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="UBICACIÓN">
+          <value>Lamartine  No. 103</value>
+        </Data>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="ALCALDIA">
+          <value>Miguel Hidalgo</value>
+        </Data>
+        <Data name="Ciudad">
+          <value>CDMX</value>
+        </Data>
+        <Data name="Direccion">
+          <value>Lamartine  No. 103, Miguel Hidalgo, CDMX</value>
+        </Data>
+        <Data name="Latitud">
+          <value>19.4375666</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-99.1897804</value>
+        </Data>
+        <Data name="OBSERVACIONES">
+          <value>Sin evidencia de anuncio, ubicación correcta</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1897804,19.4375666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
